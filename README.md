@@ -37,6 +37,8 @@ The final accuracy is good: 0.7 so the model has learned well.
 
 ## References
 https://lorenzogovoni.com/cose-lalgoritmo-xgboost/
+
+
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
 
