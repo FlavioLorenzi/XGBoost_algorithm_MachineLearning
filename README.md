@@ -1,4 +1,4 @@
-# XGBoost_algotihm_MachineLearning
+# XGBoost Machine Learning prediction
 Approaching ML Multiple Learners: Boosting (XGboost)
 
 
