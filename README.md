@@ -29,7 +29,9 @@ In this work I wrote a simple python script in which the XGBoost approach is imp
 We are going to use the Pima Indians onset of diabetes dataset. This dataset is comprised of 8 input variables that describe medical details of patients and one output variable to indicate whether the patient will have an onset of diabetes within 5 years. This is a good dataset for a first XGBoost model because all of the input variables are numeric and the problem is a simple binary classification problem. It is not necessarily a good problem for the XGBoost algorithm because it is a relatively small dataset and an easy problem to model.
 
 ## Model and accuracy result
-The model parameters are showed following
+The model parameters are showed following:
+
+
 ![](model.png)
 
 The final accuracy is good: 0.7 so the model has learned well.
