@@ -37,6 +37,13 @@ The model parameters are showed following:
 The final accuracy is good: 0.7 so the model has learned well.
 
 
+
+Extra: This is how boosted tree models are trained:
+
+
+![](extra.gif)
+
+
 ## References
 https://lorenzogovoni.com/cose-lalgoritmo-xgboost/
 
